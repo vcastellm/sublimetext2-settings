@@ -1,3 +1,0 @@
-[submodule "Puppet"]
-	path = Puppet
-	url = git://github.com/arioch/sublime-text-puppet.git
