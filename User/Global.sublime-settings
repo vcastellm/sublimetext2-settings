@@ -1,0 +1,8 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+	"theme": "Soda Light.sublime-theme",
+	"ignored_packages": [],
+	"hot_exit": false,
+	"remember_open_files": false
+}
