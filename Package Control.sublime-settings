@@ -1,3 +1,12 @@
 {
-	"auto_upgrade_last_run": 1327666947
+	"auto_upgrade_last_run": 1331051493,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"FileDiffs",
+		"Package Control",
+		"SCSS",
+		"SublimeTextGitX",
+		"Tag"
+	]
 }
