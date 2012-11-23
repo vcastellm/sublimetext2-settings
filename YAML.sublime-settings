@@ -7,11 +7,5 @@
 
   // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
   // backspace insert/delete up to the next tabstop
-  "use_tab_stops": true,
-
-	"extensions":
-	[
-		"module",
-    "test"
-	]
+  "use_tab_stops": true
 }

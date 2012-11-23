@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1332764075,
+	"auto_upgrade_last_run": 1352451453,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"FileDiffs",
+		"GoSublime",
 		"Package Control",
 		"SCSS",
 		"SublimeTextGitX",
